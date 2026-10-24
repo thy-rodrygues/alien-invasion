@@ -4,15 +4,21 @@
 
 Um jogo arcade 2D estilo *Space Shooter* desenvolvido em Python utilizando a biblioteca **Pygame**. O jogador controla uma espaçonave que deve se defender de uma frota alienígena invasora.
 
+---
+
 ##  Funcionalidades
 - Movimentação fluida da espaçonave (esquerda e direita)
 - Sistema de disparos de projéteis para destruir os inimigos
 - Frota de aliens que se desloca pela tela e aumenta de dificuldade
 - Tela de início, placar de pontuação máxima salvo em arquivo (`high_score.txt`) e gerenciamento de vidas
 
+---
+
 ## Ferramentas
 - **Python 3** (Linguagem principal)
 - **Pygame** (Biblioteca para renderização gráfica e gerenciamento de eventos)
+
+---
 
 ##  Como Rodar o Projeto no seu Computador
 
@@ -31,6 +37,8 @@ pip install numpy
 
 4. Execute o jogo:
 python alien_invasion.py
+
+---
 
 ## Estrutura do Repositório
 
