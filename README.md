@@ -19,14 +19,23 @@ Um jogo arcade 2D estilo *Space Shooter* desenvolvido em Python utilizando a bib
 Siga os passos abaixo para clonar e executar o jogo localmente:
 
 ```bash
+1. Clone o repositório:
 git clone [https://github.com/thy-rodrygues/alien-invasion.git](https://github.com/thy-rodrygues/alien-invasion.git)
+
+2. Acesse a pasta do projeto:
 cd alien-invasion
+
+3. Instale a biblioteca Pygame e Numpy:
 pip install pygame
 pip install numpy
+
+4. Execute o jogo:
 python alien_invasion.py
 
 ## Estrutura do Repositório
-```text
+
+```
+
 alien-invasion/
 ├── images/              # Recursos visuais (sprites de naves e aliens)
 ├── sounds/              # Efeitos sonoros do jogo
@@ -41,6 +50,8 @@ alien-invasion/
 ├── settings.py          # Configurações globais (cores, tela, velocidade)
 ├── ship.py              # Classe e lógica da espaçonave do jogador
 └── README.md            # Documentação do projeto
+
+```
 
 ## Próximos Passos
 - Adicionar novos efeitos sonoros e trilha sonora imersiva
