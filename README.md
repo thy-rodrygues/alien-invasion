@@ -1,7 +1,8 @@
 ## Alien Invasion — Jogo Arcade em Python
 <p align="center">
-  <img src="images/demo.gif" alt="Demonstração do Jogo Alien Invasion" width="600px">
+  <img src="gif/demo.gif" alt="Demonstração do Jogo Alien Invasion" width="600px">
 </p>
+
 [![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-1d7032?style=for-the-badge&logo=python&logoColor=white)](https://www.pygame.org/)
 
