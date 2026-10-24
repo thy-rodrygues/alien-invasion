@@ -21,9 +21,15 @@ Siga os passos abaixo para clonar e executar o jogo localmente:
 1. Clone este repositório:
    ```bash
    git clone [https://github.com/thy-rodrygues/alien-invasion.git](https://github.com/thy-rodrygues/alien-invasion.git)
+
+   ```bash
    cd alien-invasion
+
+   ```bash 
    pip install pygame
    pip install numpy
+
+   ```bash
    python alien_invasion.py
 
 ## Estrutura do Repositório
