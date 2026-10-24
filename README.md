@@ -34,8 +34,7 @@ python alien_invasion.py
 
 ## Estrutura do Repositório
 
-```
-
+```text
 alien-invasion/
 ├── images/              # Recursos visuais (sprites de naves e aliens)
 ├── sounds/              # Efeitos sonoros do jogo
@@ -51,8 +50,3 @@ alien-invasion/
 ├── ship.py              # Classe e lógica da espaçonave do jogador
 └── README.md            # Documentação do projeto
 
-```
-
-## Próximos Passos
-- Adicionar novos efeitos sonoros e trilha sonora imersiva
-- Criar novos níveis com dificuldades progressivas e chefões (bosses)
