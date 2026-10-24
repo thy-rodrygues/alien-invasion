@@ -10,7 +10,7 @@ Um jogo arcade 2D estilo *Space Shooter* desenvolvido em Python utilizando a bib
 - Frota de aliens que se desloca pela tela e aumenta de dificuldade
 - Tela de início, placar de pontuação máxima salvo em arquivo (`high_score.txt`) e gerenciamento de vidas
 
-## Tecnologias e Ferramentas
+## Ferramentas
 - **Python 3** (Linguagem principal)
 - **Pygame** (Biblioteca para renderização gráfica e gerenciamento de eventos)
 
